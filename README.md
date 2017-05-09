@@ -1,7 +1,7 @@
 # ExpandableRecycler
 Hands on with Expandable Recyclerview 
 
-# Screen Refernce
+# Screen Reference
 <img src="https://github.com/Aish05/ExpandableRecycler/blob/master/ExpandableRecycler.png" width="500" >
 
 # Synopsis
