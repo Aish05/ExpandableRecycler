@@ -7,7 +7,7 @@ import android.view.View;
  * ViewHolder for a expanded state and holds callbacks which can be used to
  * trigger expansion-based events.
  * <p/>
- * Created by 848764 on 9/15/2016.
+ * Created by Aish on 9/15/2016.
  */
 public class MainViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
 

@@ -6,7 +6,7 @@ import android.view.View;
 /**
  * ViewHolder for a child list
  * item.
- * Created by 848764 on 9/15/2016.
+ * Created by Aish on 9/15/2016.
  */
 public class ChildViewHolder extends RecyclerView.ViewHolder {
 

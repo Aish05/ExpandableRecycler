@@ -8,9 +8,10 @@ import android.support.v7.widget.RecyclerView;
 import android.view.View;
 
 /**
- * Created by 1033826 on 11/23/2016.
+ * Created by Aish on 11/23/2016.
  */
 
+//A class for providing decoration to the recyclerView
 public class SimpleDividerItemDecoration extends RecyclerView.ItemDecoration {
     private Drawable mDivider;
 

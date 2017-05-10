@@ -23,7 +23,7 @@ import retrofit.Retrofit;
 import retrofit.RxJavaCallAdapterFactory;
 
 /**
- * Created by 1033826 on 11/16/2016.
+ * Created by Aish on 11/16/2016.
  */
 public class MainModel implements MainInterfaceHolder.PresenterToModel {
 

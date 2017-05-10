@@ -1,7 +1,7 @@
 package com.androaish.com.expandable.Model;
 
 /**
- * Created by 848764 on 9/15/2016.
+ * Created by Aish on 9/15/2016.
  */
 import java.util.List;
 

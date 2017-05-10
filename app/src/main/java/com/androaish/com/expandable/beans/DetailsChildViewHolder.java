@@ -7,7 +7,7 @@ import com.androaish.com.expandable.R;
 import com.androaish.com.expandable.viewholder.ChildViewHolder;
 
 /**
- * Created by 1033826 on 11/16/2016.
+ * Created by Aish on 11/16/2016.
  */
 
 public class DetailsChildViewHolder extends ChildViewHolder {

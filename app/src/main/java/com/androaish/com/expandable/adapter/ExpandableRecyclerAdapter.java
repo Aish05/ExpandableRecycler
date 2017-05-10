@@ -31,7 +31,7 @@ import java.util.List;
  * {@link #notifyChildItemChanged(int, int)}
  * methods and not the notify methods of RecyclerView.Adapter.
  * <p/>
- * Created by 848764 on 9/15/2016.
+ * Created by Aish on 9/15/2016.
  */
 public abstract class ExpandableRecyclerAdapter<PVH extends MainViewHolder, CVH extends ChildViewHolder>
         extends RecyclerView.Adapter<RecyclerView.ViewHolder> implements MainViewHolder.MainListItemExpandCollapseListener {
